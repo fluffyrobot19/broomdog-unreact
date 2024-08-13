@@ -1,6 +1,6 @@
 ### Project Broomdog
 
-<img align="left" src="https://github.com/user-attachments/assets/72095dbf-7c98-418d-9ff7-6672e72e59b9" width="300" />
+<img align="left" src="https://github.com/user-attachments/assets/5511fa54-c22b-4202-b9e0-c7fa79ec1dfe" width="300" />
 
 *The Broomdog is shown to be a busy, hard-working dog-like creature. The Broomdog first appears in Tulgey Wood clearing the path where Alice is walking. After that, he steps aside to the back of her to finish of the rest of the path with his tail.* (Animated Dogs Wiki)
 
